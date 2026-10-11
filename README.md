@@ -8,7 +8,7 @@ Classic, high score, timed, and precision for Linux. One ball, one score. Siblin
 
 ## Download
 
-Get `shadowfetch-skeeball-1.0.0-linux-x86_64.tar.gz` from the [latest release](https://github.com/Shadowfetchapps/shadowfetch-skeeball/releases/latest) (x86_64 Linux), then:
+Get `shadowfetch-skeeball-1.0.0-linux-x86_64.tar.gz` from the [latest release](https://github.com/ShadowfetchStudio/shadowfetch-skeeball/releases/latest) (x86_64 Linux), then:
 
 ```bash
 sha256sum -c shadowfetch-skeeball-1.0.0-linux-x86_64.tar.gz.sha256
